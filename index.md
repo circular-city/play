@@ -8,6 +8,9 @@ Default minecraft port
 Java: 25565
 Bedrock/iPad: 19132
 
+## Whitelist
+
+Join discord to be whitelisted.
 Discord Server: [https://discord.gg/vVnQh65D](https://discord.gg/vVnQh65D)
 
 ## Plans:
