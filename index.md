@@ -1,6 +1,6 @@
 # circular.city !!
 
-This is the page for our Minecraft server
+This is the page for our Minecraft server. Current server version: ___1.17.1___
 
 Server address:
 
