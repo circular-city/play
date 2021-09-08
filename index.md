@@ -8,7 +8,7 @@ Default minecraft port
 Java: 25565
 Bedrock/iPad: 19132
 
-Discord Server: https://discord.gg/vVnQh65D
+Discord Server: [https://discord.gg/vVnQh65D](https://discord.gg/vVnQh65D)
 
 ## Plans:
 
