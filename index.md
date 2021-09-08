@@ -21,3 +21,7 @@ Now till december 2021: Minecraft 1.17.1 with [⚔EliteMobs⚔ quests](https://w
 
 December 2021: Minecraft 1.18 [Cliffs and Caves](https://help.minecraft.net/hc/en-us/articles/360059400852-Minecraft-Caves-Cliffs-Update-FAQ)
 
+## Status
+
+Check server status here: [mcsrvstat.us](https://mcsrvstat.us/server/circular.city)
+
