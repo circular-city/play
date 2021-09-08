@@ -23,7 +23,5 @@ December 2021: Minecraft 1.18 [Cliffs and Caves](https://help.minecraft.net/hc/e
 
 ## Status
 
-![servers are down](https://aws1.discourse-cdn.com/business20/uploads/trading212/original/2X/2/2a5ec21739de66a9b00b29a1de6dbefc818f55f3.gif)
-
 Check server status here: [mcsrvstat.us](https://mcsrvstat.us/server/circular.city)
 
