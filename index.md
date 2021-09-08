@@ -5,8 +5,8 @@ This is the page for our Minecrafrt server
 Server address: circular.city
 
 Default minecraft port
-Java: 25565
-Bedrock/iPad: 19132
+- Java: 25565
+- Bedrock/iPad: 19132
 
 ## Whitelist
 
