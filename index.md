@@ -1,10 +1,12 @@
 # circular.city !!
 
-This is the page for our Minecrafrt server
+This is the page for our Minecraft server
 
-Server address: circular.city
+Server address:
 
-Default minecraft port
+    circular.city
+
+Default minecraft port:
 - Java: 25565
 - Bedrock/iPad: 19132
 
