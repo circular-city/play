@@ -18,7 +18,7 @@ Discord Server: [https://discord.gg/vVnQh65D](https://discord.gg/vVnQh65D)
 ## Connect java and bedrock
 
 To sync your bedrock (iPad, Playstation) and java user use this link
-https://link.geysermc.org/link/online.html
+[link.geysermc.org](https://link.geysermc.org/link/online.html)
 
 ## Plans:
 
