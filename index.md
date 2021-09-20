@@ -15,6 +15,11 @@ Default minecraft port:
 Join discord to be whitelisted.
 Discord Server: [https://discord.gg/vVnQh65D](https://discord.gg/vVnQh65D)
 
+## Connect java and bedrock
+
+To sync your bedrock (iPad, Playstation) and java user use this link
+https://link.geysermc.org/link/online.html
+
 ## Plans:
 
 Now till december 2021: Minecraft 1.17.1 with [⚔EliteMobs⚔ quests](https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/)
